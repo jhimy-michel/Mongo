@@ -1,0 +1,5 @@
+Mongo fundamentals
+->Collections
+
+Core Mongoose/Mongo
+Mongoose is a javascript library
